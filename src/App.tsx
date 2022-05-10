@@ -1,9 +1,14 @@
-
 import "./App.css"
+import {Main} from "./component/Main";
+import MainDash from "./component/MainDash/MainDash";
+
 function App() {
     return (
         <div className="App">
-            fvasv
+            <div className="AppGlass">
+                <Main/>
+                <MainDash/>
+            </div>
         </div>
     );
 }

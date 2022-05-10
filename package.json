@@ -10,6 +10,7 @@
     "@types/node": "^16.11.33",
     "@types/react": "^18.0.9",
     "@types/react-dom": "^18.0.3",
+    "@iconscout/react-unicons": "^1.1.6",
     "apexcharts": "^3.35.0",
     "framer-motion": "^6.2.9",
     "react": "^18.1.0",
